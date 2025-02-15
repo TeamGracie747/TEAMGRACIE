@@ -6,7 +6,7 @@
     <style>
         body {
             background-image: url('https://i.imgur.com/4IEzcvp.png?4'); /* Direct link to your background image */
-            background-size: cover; /* Set the background size to cover */
+            background-size: thumbnail; /* Set the background size to thumbnail */
             background-position: center; /* Center the image */
             background-repeat: repeat; /* repeat the image */
             font-family: Arial, sans-serif;
